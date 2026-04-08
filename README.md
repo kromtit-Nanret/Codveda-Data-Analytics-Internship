@@ -38,7 +38,7 @@ Product Manager and Data Analyst with hands-on experience in AdTech, Fintech, an
 - Top product categories: Sets (50,284), Kurta (49,877), Western Dress (15,500)
 - Most popular sizes: M, L, XL
 
-**Tools Used:** Python, pandas, matplotlib, seabor
+**Tools Used:** Python
 
 ### Task 3: Basic Data Visualization
 
@@ -66,7 +66,7 @@ Product Manager and Data Analyst with hands-on experience in AdTech, Fintech, an
 
 **Interpretation:** Quantity alone is a weak predictor of Amount. Other factors like Category and product type drive price more significantly.
 
-**Tools Used:** Python, scikit-learn, pandas, matplotlib
+**Tools Used:** Python
 
 
 ### Task 3: Clustering Analysis (K-Means)
@@ -83,7 +83,7 @@ Product Manager and Data Analyst with hands-on experience in AdTech, Fintech, an
 - Cluster 1: 42,392 orders, avg 937 INR (Mid-range segment)
 - Cluster 2: 379 orders, avg 1,291 INR (Bulk/Premium segment)
 
-**Tools Used:** Python, scikit-learn, matplotlib, seaborn
+**Tools Used:** Python
 
 ## Level 3 - Advanced Data Analytics
 
@@ -102,7 +102,7 @@ Product Manager and Data Analyst with hands-on experience in AdTech, Fintech, an
 - Random Forest: Accuracy 94%, F1 0.97
 - Best GridSearch params: max_depth=5, n_estimators=50, F1=0.9704
 
-**Tools Used:** Python, scikit-learn, pandas, matplotlib
+**Tools Used:** Python
 
 ### Task 2: Dashboard (Power BI)
 **Dataset:** Amazon_Sales_Cleaned.csv
