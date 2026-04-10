@@ -122,6 +122,8 @@ Product Manager and Data Analyst with hands-on experience in AdTech, Fintech, an
 - Slicers: Category, Size, Fulfilment
   
   <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/6e7a757f-8cf7-4baf-998d-32f1812cb53f" />
+  
+
 
 **Tools Used:** Power BI Desktop
 
